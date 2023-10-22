@@ -1,0 +1,7 @@
+.env
+params.env
+db.sqlite3
+env/
+venv/
+/env
+*.pyc
